@@ -9,7 +9,7 @@ This repository provides official code for paper "Unsupervised Video Object Segm
 
 Paper links : [official](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Unsupervised_Video_Object_Segmentation_via_Prototype_Memory_Network_WACV_2023_paper.pdf), [arXiv](https://arxiv.org/pdf/2209.03712.pdf)
 
-<img align="center" src="./images/model.png" width="800px" />
+<img align="center" src="./model.png" width="800px" />
 
 ## Prepared Datasets
 TBD
